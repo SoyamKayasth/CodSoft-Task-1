@@ -35,20 +35,6 @@ Landing-Page/
 * **CSS3 (Flexbox, basic layout styling)**
 
 ---
-
-## 📸 Preview
-
-You can open `index.html` in your browser to see the landing page.
-If this project is hosted on GitHub Pages, your link will look like:
-
-```
-https://your-username.github.io/Landing-Page/
-```
-
-(Replace *your-username* with your GitHub ID.)
-
----
-
 ## 🚀 How to Run This Project
 
 1. Download or clone the repository:
