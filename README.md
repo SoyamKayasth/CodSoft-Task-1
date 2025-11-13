@@ -1,4 +1,4 @@
-# CodSoft-Task-1
+# CodSoft-Task-2
 
 ## 🌐 Landing Page Project
 
